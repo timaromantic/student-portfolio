@@ -1,16 +1,32 @@
 
 # Student Portfolio
 
-Учебный проект по Git и GitHub.
+Мой учебный сайт-портфолио.
+
+## О проекте
+
+Сайт разработан для изучения Git и GitHub.
 
 ## Технологии
+
 - HTML
 - CSS
 - JavaScript
-- Git и GitHub
+- Git
+- GitHub
 
-## Автор
-Temirlan Eshimbaev
+## Возможности
+
+- Главная страница
+- Раздел обо мне
+- Раздел с проектами
+- Интерактивная кнопка
+- Публикация через GitHub Pages
 
 ## Запуск
+
 Откройте index.html в браузере.
+
+## Автор
+
+Temirlan Eshimbaev
