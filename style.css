@@ -13,3 +13,29 @@ main {
     background: white;
     border-radius: 16px;
 }
+h1 {
+    color: #2563eb;
+}
+
+h2 {
+    color: #1e40af;
+}
+
+button {
+    background: #2563eb;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #1d4ed8;
+}
+
+section {
+    margin-top: 30px;
+    padding-top: 15px;
+    border-top: 1px solid #ddd;
+}
